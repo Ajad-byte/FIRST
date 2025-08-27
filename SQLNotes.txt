@@ -1,0 +1,220 @@
+Chapter 1: Introduction to Oracle SQL
+    What is a database?        
+
+    What is DBMS?         
+     
+    What is RDBMS?         
+     
+    What is SQL?         
+     
+    RDBMS Products In The Market         
+ 
+Chapter 2: Basics of Oracle SQL
+    Users and Schemas         
+     
+    Introduction to Data Modeling         
+     
+    Introduction to Data Dictionary         
+     
+    Oracle SQL Data Types         
+ 
+Chapter 3: Data Defination Language(DDL) Commands
+    Create Table         
+     
+    Alter Table         
+     
+    Truncate Table         
+     
+    Drop Table         
+     
+    Rename Table         
+ 
+Chapter 4: Data Manipulation Language(DML) Commands
+    Insert Command         
+     
+    Update Command         
+     
+    Delete Command         
+     
+    Merge Command         
+ 
+Chapter 5: Constraints
+What are Constraints?         
+ 
+    Not Null Constraint         
+     
+    Check Constraint         
+     
+    Unique Constraint         
+     
+    Primary Key Constraint         
+     
+    Foreign Key Constraint         
+     
+    ON Delete Cascade         
+     
+    Composite Keys         
+ 
+Chapter 6: Transaction Control Language(TCL) Commands
+    Oracle SQL Commit         
+     
+    Rollback         
+     
+    Savepoint         
+ 
+Chapter 7: Data Control Language(DCL) Commands
+    Grant         
+     
+    Revoke         
+ 
+Chapter 8: Data Retrieval Language(DRL) & Clauses
+SELECT         
+ 
+    Where Clause         
+     
+    ORDER BY         
+     
+    GROUP BY         
+     
+    Having Clause         
+ 
+Chapter 9: SQL Operators
+    Introduction to SQL Operators         
+     
+    Types of Operators         
+ 
+Chapter 10: Relational Operators
+    Equals to (=) Operator         
+     
+    Less than (<) Operator         
+     
+    Greater Than (>) Operator         
+     
+    Less than or Equals to (<=) Operator         
+     
+    Greater than or Equals to (>=) Operator         
+     
+    Not Equals to ( != / ^= / <> ) Operator         
+     
+    SQL IN Operator         
+     
+    SQL BETWEEN Operator         
+     
+    SQL LIKE Operator         
+     
+    SQL IS NULL Operator         
+     
+    SQL Concatenation ( || ) Operator         
+ 
+Chapter 11: Relational Negation Operators
+    SQL NOT LIKE Operator         
+     
+    SQL Not Equals to ( != / ^= / <> ) Operator         
+     
+    SQL NOT IN Operator         
+     
+    SQL NOT BETWEEN Operator         
+     
+    SQL IS NOT NULL Operator         
+ 
+Chapter 12: Logical Operators
+    Logical AND Operator         
+     
+    Logical OR Operator         
+     
+    Logical NOT Operator         
+ 
+Chapter 13: Arithmetic Operators
+    Addition (+) Operator         
+     
+    Subtraction (-) Operator         
+     
+    Multiplication (*) Operator         
+     
+    Division ( / ) Operator         
+     
+Chapter 14: Functions
+    String Functions         
+     
+    Numeric Functions         
+     
+    Date Functions         
+     
+    Conversion Functions         
+     
+    Group Functions         
+ 
+Chapter 15: Joins
+    What Is a Join?         
+     
+    Inner Join (or) Simple Join (or) Equi Join         
+     
+    Left Outer Join         
+     
+    Right Outer Join         
+     
+    Full Outer Join         
+     
+    Cross Join         
+     
+    Non-Equi Join         
+ 
+Chapter 16: Subqueries
+    Sub Query         
+     
+    Sub Query In From Clause         
+     
+    Sub Query In Select Clause         
+     
+    Sub Query In Where Clause         
+ 
+    Nested Sub Queries         
+ 
+Chapter 17: Set Operators
+    UNION         
+     
+    UNION ALL         
+     
+    INTERSECT         
+     
+    MINUS         
+ 
+Chapter 18: Indexes
+    Index         
+     
+    Unique Index         
+     
+    Non Unique Indexes         
+     
+    Composite Index         
+ 
+    Function Based Index         
+ 
+Chapter 19: Synonym
+    Synonym         
+     
+    Private Synonym         
+     
+    Public Synonym         
+ 
+Chapter 20: Sequence
+    What Is Sequence?         
+     
+    Using A Sequence         
+     
+    Altering And Dropping The Sequence         
+ 
+Chapter 21: Views
+    View         
+     
+    Simple View         
+     
+    Complex Views         
+     
+    DML Operations on Views         
+     
+    MATERIALIZED VIEW         
+     
+    Difference Between Normal and Materialized View         
+     
+    Force View         
